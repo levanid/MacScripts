@@ -9,4 +9,5 @@ This script extracts firmware updaters from MacOS Mojave installers and makes a 
 You'll need Install macOS Mojave.app in Applications folder
 
 Use `sudo sh make_FirmwareUpdateStandalone_pkg.sh`
+
 The package will be placed to /tmp/FirmwareUpdateStandalone/FirmwareUpdateStandalone.pkg
